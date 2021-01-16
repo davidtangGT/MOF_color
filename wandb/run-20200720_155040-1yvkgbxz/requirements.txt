@@ -21,7 +21,7 @@ comet-git-pure==0.19.16
 comet-ml==3.1.7
 configobj==5.0.6
 configparser==5.0.0
-cryptography==2.9.2
+cryptography==3.2
 cycler==0.10.0
 cytoolz==0.10.1
 dask==2.16.0
