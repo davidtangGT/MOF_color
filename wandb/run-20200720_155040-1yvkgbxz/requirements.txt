@@ -154,7 +154,7 @@ seaborn==0.10.1
 send2trash==1.5.0
 sentry-sdk==0.16.1
 setoptconf==0.2.0
-setuptools==46.4.0.post20200518
+setuptools==65.5.1
 shap==0.32.1
 shortuuid==1.0.1
 six==1.15.0
